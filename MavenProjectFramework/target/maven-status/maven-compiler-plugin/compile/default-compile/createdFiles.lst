@@ -1,0 +1,10 @@
+com\adatinhotel\BookAHotelPage.class
+com\baseclass\Baseutils.class
+com\adatinhotel\SearchPage.class
+com\propertyfilereader\SingletonDesignPattern.class
+com\adatinhotel\SelectHotelPage.class
+com\propertyfilereader\ConfigurationReader.class
+com\adatinhotel\LoginPage.class
+com\adatinhotel\BookedItinerary.class
+com\pagemanager\PageManager.class
+com\adatinhotel\BookingConfirmPage.class
