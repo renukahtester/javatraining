@@ -26,6 +26,8 @@ public class Runnerfile extends Baseutils {
 	@BeforeClass
 	public static void Launch() {
 		browserLaunch("chrome");
+		System.out.println("testing");
+		System.out.println("demo");
 		maximize();
 	}
 }
